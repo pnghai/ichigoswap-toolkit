@@ -1,14 +1,17 @@
 {
-  "name": "@pancakeswap-libs/uikit",
-  "version": "0.20.0",
-  "description": "Set of UI components for pancake projects",
+  "name": "@pnghai/ichigoswap-uikit",
+  "version": "0.22.0",
+  "description": "Set of UI components for strawberry projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit",
+  "repository": "https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit",
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "MIT",
   "scripts": {
     "start": "yarn storybook",
@@ -46,8 +49,5 @@
     "lodash": "^4.17.20",
     "react-transition-group": "^4.4.1",
     "styled-system": "^5.1.5"
-  },
-  "publishConfig": {
-    "access": "public"
   }
 }
