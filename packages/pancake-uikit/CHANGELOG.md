@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.22.3](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/compare/@pnghai/ichigoswap-uikit@0.22.1...@pnghai/ichigoswap-uikit@0.22.3) (2021-04-05)
+
+
+### Bug Fixes
+
+* Included setupTests.js and updated snap tests ([#50](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/issues/50)) ([b6ab0ee](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/commit/b6ab0ee48e82c8ac88b288e1f790e1c91babb93d))
+
+
+
+
+
 ## [0.22.1](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/compare/@pnghai/ichigoswap-uikit@0.22.0...@pnghai/ichigoswap-uikit@0.22.1) (2021-04-02)
 
 **Note:** Version bump only for package @pnghai/ichigoswap-uikit
