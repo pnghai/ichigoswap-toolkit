@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.23.0](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/compare/@pnghai/ichigoswap-uikit@0.22.3...@pnghai/ichigoswap-uikit@0.23.0) (2021-04-08)
+
+
+### Features
+
+* Add Tune icon ([#54](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/issues/54)) ([54702ac](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/commit/54702ac31f6ff7ea0eeb7483363841eb0a2262d6))
+* **uikit:** Dropdown color ([#52](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/issues/52)) ([52aae47](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/commit/52aae470bc0067f5ac130df3bdb562c2911cb5cc))
+
+
+
+
+
 ## [0.22.3](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/compare/@pnghai/ichigoswap-uikit@0.22.1...@pnghai/ichigoswap-uikit@0.22.3) (2021-04-05)
 
 
