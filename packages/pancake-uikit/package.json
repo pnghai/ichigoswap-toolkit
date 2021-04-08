@@ -1,6 +1,6 @@
 {
   "name": "@pnghai/ichigoswap-uikit",
-  "version": "0.22.4",
+  "version": "0.22.5",
   "description": "Set of UI components for strawberry projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
