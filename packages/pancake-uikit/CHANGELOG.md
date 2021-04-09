@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.23.3](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/compare/@pnghai/ichigoswap-uikit@0.23.2...@pnghai/ichigoswap-uikit@0.23.3) (2021-04-09)
+
+**Note:** Version bump only for package @pnghai/ichigoswap-uikit
+
+
+
+
+
 ## [0.23.2](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/compare/@pnghai/ichigoswap-uikit@0.23.1...@pnghai/ichigoswap-uikit@0.23.2) (2021-04-09)
 
 **Note:** Version bump only for package @pnghai/ichigoswap-uikit
