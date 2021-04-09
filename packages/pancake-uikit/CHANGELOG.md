@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.23.1](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/compare/@pnghai/ichigoswap-uikit@0.23.0...@pnghai/ichigoswap-uikit@0.23.1) (2021-04-09)
+
+
+### Bug Fixes
+
+* Accordion menu stuck at active state ([#57](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/issues/57)) ([f9f5162](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/commit/f9f5162f269a27b375943db4b87850c6d8998d3d))
+* React dom failure when passing unknown props to child component ([#49](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/issues/49)) ([e3c0272](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/commit/e3c02729bb5c1391d6179a7da6c38bdee6f741bf))
+
+
+
+
+
 # [0.23.0](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/compare/@pnghai/ichigoswap-uikit@0.22.3...@pnghai/ichigoswap-uikit@0.23.0) (2021-04-08)
 
 
