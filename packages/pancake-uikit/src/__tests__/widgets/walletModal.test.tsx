@@ -8,7 +8,7 @@ it("renders ConnectModal correctly", () => {
   expect(asFragment()).toMatchInlineSnapshot(`
     <DocumentFragment>
       .c5 {
-      color: #452A7A;
+      color: #9a0e3f;
       font-size: 16px;
       font-weight: 600;
       line-height: 1.5;
@@ -56,7 +56,7 @@ it("renders ConnectModal correctly", () => {
     }
 
     .c14 {
-      fill: #452A7A;
+      fill: #9a0e3f;
       -webkit-flex-shrink: 0;
       -ms-flex-negative: 0;
       flex-shrink: 0;

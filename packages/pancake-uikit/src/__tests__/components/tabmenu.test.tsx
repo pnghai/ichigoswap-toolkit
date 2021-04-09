@@ -21,7 +21,7 @@ it("renders correctly", () => {
     }
 
     .c1 {
-      border-bottom: 2px solid #8f80ba;
+      border-bottom: 2px solid #ffc5d9;
       padding: 0 16px;
       overflow-y: scroll;
       -ms-overflow-style: none;
@@ -69,7 +69,7 @@ it("renders correctly", () => {
       padding: 8px;
       border-radius: 16px 16px 0 0;
       color: #FFFFFF;
-      background-color: #8f80ba;
+      background-color: #ffc5d9;
     }
 
     .c5 {
@@ -90,7 +90,7 @@ it("renders correctly", () => {
       flex-grow: 1;
       padding: 8px;
       border-radius: 16px 16px 0 0;
-      color: #8f80ba;
+      color: #ffc5d9;
       background-color: #eeeaf4;
     }
 
@@ -103,7 +103,7 @@ it("renders correctly", () => {
     }
 
     .c6 {
-      color: #8f80ba;
+      color: #ffc5d9;
       font-size: 16px;
       font-weight: 400;
       line-height: 1.5;

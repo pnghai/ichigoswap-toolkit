@@ -51,7 +51,7 @@ it("renders correctly", () => {
       left: 0px;
       width: 100%;
       height: 100%;
-      background-color: #452a7a;
+      background-color: #9a0e3f;
       -webkit-transition: opacity 0.4s;
       transition: opacity 0.4s;
       opacity: 0;
@@ -67,21 +67,21 @@ it("renders correctly", () => {
     }
 
     .c5 {
-      fill: #8f80ba;
+      fill: #ffc5d9;
       -webkit-flex-shrink: 0;
       -ms-flex-negative: 0;
       flex-shrink: 0;
     }
 
     .c7 {
-      fill: #452A7A;
+      fill: #9a0e3f;
       -webkit-flex-shrink: 0;
       -ms-flex-negative: 0;
       flex-shrink: 0;
     }
 
     .c13 {
-      fill: #452A7A;
+      fill: #9a0e3f;
       -webkit-flex-shrink: 0;
       -ms-flex-negative: 0;
       flex-shrink: 0;
@@ -251,7 +251,7 @@ it("renders correctly", () => {
     }
 
     .c4 {
-      color: #452A7A;
+      color: #9a0e3f;
       padding: 0 8px;
       border-radius: 8px;
     }
@@ -316,7 +316,7 @@ it("renders correctly", () => {
       padding: 0 16px;
       font-size: 16px;
       background-color: transparent;
-      color: #8f80ba;
+      color: #ffc5d9;
       box-shadow: inset 4px 0px 0px #1FC7D4;
       -webkit-flex-shrink: 0;
       -ms-flex-negative: 0;
@@ -337,7 +337,7 @@ it("renders correctly", () => {
     }
 
     .c12 svg {
-      fill: #8f80ba;
+      fill: #ffc5d9;
     }
 
     .c12:hover {
@@ -366,7 +366,7 @@ it("renders correctly", () => {
       padding: 0 16px;
       font-size: 16px;
       background-color: transparent;
-      color: #8f80ba;
+      color: #ffc5d9;
       box-shadow: none;
       -webkit-flex-shrink: 0;
       -ms-flex-negative: 0;
@@ -387,7 +387,7 @@ it("renders correctly", () => {
     }
 
     .c16 svg {
-      fill: #8f80ba;
+      fill: #ffc5d9;
     }
 
     .c16:hover {
