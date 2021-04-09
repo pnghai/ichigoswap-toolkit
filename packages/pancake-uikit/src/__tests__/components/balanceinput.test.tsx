@@ -9,7 +9,7 @@ it("renders correctly", () => {
   expect(asFragment()).toMatchInlineSnapshot(`
     <DocumentFragment>
       .c3 {
-      color: #ffc5d9;
+      color: #c42243;
       font-size: 12px;
       font-weight: 400;
       line-height: 1.5;
@@ -32,19 +32,19 @@ it("renders correctly", () => {
     }
 
     .c1::-webkit-input-placeholder {
-      color: #ffc5d9;
+      color: #c42243;
     }
 
     .c1::-moz-placeholder {
-      color: #ffc5d9;
+      color: #c42243;
     }
 
     .c1:-ms-input-placeholder {
-      color: #ffc5d9;
+      color: #c42243;
     }
 
     .c1::placeholder {
-      color: #ffc5d9;
+      color: #c42243;
     }
 
     .c1:disabled {
@@ -76,19 +76,19 @@ it("renders correctly", () => {
     }
 
     .c2::-webkit-input-placeholder {
-      color: #ffc5d9;
+      color: #c42243;
     }
 
     .c2::-moz-placeholder {
-      color: #ffc5d9;
+      color: #c42243;
     }
 
     .c2:-ms-input-placeholder {
-      color: #ffc5d9;
+      color: #c42243;
     }
 
     .c2::placeholder {
-      color: #ffc5d9;
+      color: #c42243;
     }
 
     .c2:focus:not(:disabled) {
