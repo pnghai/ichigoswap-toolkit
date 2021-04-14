@@ -25,7 +25,7 @@ it("renders correctly", () => {
     }
 
     .c0 {
-      min-width: 360px;
+      min-width: 320px;
     }
 
     .c10 {
@@ -88,6 +88,10 @@ it("renders correctly", () => {
 
     .c7:active:not(:disabled):not(.pancake-button--disabled):not(.pancake-button--disabled) {
       opacity: 0.85;
+      -webkit-transform: translateY(1px);
+      -ms-transform: translateY(1px);
+      transform: translateY(1px);
+      box-shadow: none;
     }
 
     .c7:disabled,
@@ -152,7 +156,7 @@ it("renders correctly", () => {
     @media screen and (min-width:370px) {
       .c1 {
         width: auto;
-        min-width: 360px;
+        min-width: 320px;
         max-width: 100%;
       }
     }
