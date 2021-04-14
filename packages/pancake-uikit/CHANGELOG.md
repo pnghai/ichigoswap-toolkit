@@ -3,6 +3,29 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.24.0](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/compare/@pnghai/ichigoswap-uikit@0.23.4...@pnghai/ichigoswap-uikit@0.24.0) (2021-04-14)
+
+
+### Bug Fixes
+
+* :fire: UI updates: button click animation, menu closing fix, men… ([#63](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/issues/63)) ([3d9ba48](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/commit/3d9ba489f642939cfdf54d6939c0fdd7309ed86b))
+* Add z-index 10 to StyledTooltip ([#70](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/issues/70)) ([24941ff](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/commit/24941ff7234e4ad89a4fa0c10c85e2f73e8f72aa))
+* Stepper alignement ([#69](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/issues/69)) ([25df26a](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/commit/25df26a9c9e6668c4e0ccd8171df6f748b41dccf))
+* Z index breaking language switcher ([#67](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/issues/67)) ([7179eb1](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/commit/7179eb16d1125c517362cf953a04659d8d12dd1d))
+* **tab-menu:** Fix scroll overflow and tighten padding on sm phones ([#62](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/issues/62)) ([ef0cd3d](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/commit/ef0cd3d8896b34968e3610c2a078842dfe7142bf))
+* Stepper connector visibility ([#66](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/issues/66)) ([629be7b](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/commit/629be7b33cc3c7d95499ca67b7a175a29f3f7225))
+* **modal:** Change modal min width to 320px ([#60](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/issues/60)) ([f09ade9](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/commit/f09ade9f149d6793404c86829a728b4f1ba7b93a))
+
+
+### Features
+
+* **colors:** Add card gradients to colors theme  ([#61](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/issues/61)) ([4c7a8ac](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/commit/4c7a8acfb328b80d203ba39eccac92dbf64ca674))
+* Add left position for card ribbon ([#68](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/issues/68)) ([0edaf8e](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/commit/0edaf8e7a1dfa76be1fa858d3e534471a533b512))
+
+
+
+
+
 ## [0.23.4](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/compare/@pnghai/ichigoswap-uikit@0.23.3...@pnghai/ichigoswap-uikit@0.23.4) (2021-04-09)
 
 **Note:** Version bump only for package @pnghai/ichigoswap-uikit
