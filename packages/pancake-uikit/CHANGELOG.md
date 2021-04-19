@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.24.1](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/compare/@pnghai/ichigoswap-uikit@0.24.0...@pnghai/ichigoswap-uikit@0.24.1) (2021-04-19)
+
+
+### Bug Fixes
+
+* Make BalanceInputt a type="number" ([#74](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/issues/74)) ([e6e6915](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/commit/e6e69151a79c35f9c736b1fb996cebb99ce526fc))
+* Stepper layout ([#73](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/issues/73)) ([6899561](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/commit/6899561397a065e625b9ea2461f5d1a7b328fa3a))
+* Theme config key name ([#71](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/issues/71)) ([d55e4bc](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/commit/d55e4bc76486d9c04df62b7e1359b394a8b89dd8))
+
+
+
+
+
 # [0.24.0](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/compare/@pnghai/ichigoswap-uikit@0.23.4...@pnghai/ichigoswap-uikit@0.24.0) (2021-04-14)
 
 
