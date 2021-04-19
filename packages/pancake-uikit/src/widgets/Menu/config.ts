@@ -143,58 +143,58 @@ export const socials = [
     label: "Telegram",
     icon: "TelegramIcon",
     items: [
-      {
-        label: "English",
-        href: "#",
-      },
-      {
-        label: "Bahasa Indonesia",
-        href: "#",
-      },
-      {
-        label: "中文",
-        href: "#",
-      },
-      {
-        label: "Tiếng Việt",
-        href: "#",
-      },
-      {
-        label: "Italiano",
-        href: "#",
-      },
-      {
-        label: "русский",
-        href: "#",
-      },
-      {
-        label: "Türkiye",
-        href: "#",
-      },
-      {
-        label: "Português",
-        href: "#",
-      },
-      {
-        label: "Español",
-        href: "#",
-      },
-      {
-        label: "日本語",
-        href: "#",
-      },
-      {
-        label: "Français",
-        href: "#",
-      },
+      // {
+      //   label: "English",
+      //   href: "#",
+      // },
+      // {
+      //   label: "Bahasa Indonesia",
+      //   href: "#",
+      // },
+      // {
+      //   label: "中文",
+      //   href: "#",
+      // },
+      // {
+      //   label: "Tiếng Việt",
+      //   href: "#",
+      // },
+      // {
+      //   label: "Italiano",
+      //   href: "#",
+      // },
+      // {
+      //   label: "русский",
+      //   href: "#",
+      // },
+      // {
+      //   label: "Türkiye",
+      //   href: "#",
+      // },
+      // {
+      //   label: "Português",
+      //   href: "#",
+      // },
+      // {
+      //   label: "Español",
+      //   href: "#",
+      // },
+      // {
+      //   label: "日本語",
+      //   href: "#",
+      // },
+      // {
+      //   label: "Français",
+      //   href: "#",
+      // },
       {
         label: "Announcements",
         href: "#",
       },
-      {
-        label: "Whale Alert",
-        href: "#",
-      },
+      // {
+      //   label: "Whale Alert",
+      //   href: "#",
+      // },
     ],
   },
   {
