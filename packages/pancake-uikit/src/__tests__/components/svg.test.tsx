@@ -11,6 +11,9 @@ it("renders correctly", () => {
   expect(asFragment()).toMatchInlineSnapshot(`
     <DocumentFragment>
       .c0 {
+      -webkit-align-self: center;
+      -ms-flex-item-align: center;
+      align-self: center;
       fill: #9a0e3f;
       -webkit-flex-shrink: 0;
       -ms-flex-negative: 0;
