@@ -27,11 +27,11 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.pancakeswap.finance",
+        href: "https://exchange.strawberryswap.link",
       },
       {
         label: "Liquidity",
-        href: "https://exchange.pancakeswap.finance/#/pool",
+        href: "https://exchange.strawberryswap.link/#/pool",
       },
     ],
   },
@@ -56,86 +56,86 @@ export const links = [
     icon: "NftIcon",
     href: "/nft",
   },
-  {
-    label: "Team Battle",
-    icon: "TeamBattleIcon",
-    href: "/competition",
-    status: status.SOON,
-  },
-  {
-    label: "Profile & Teams",
-    icon: "GroupsIcon",
-    items: [
-      {
-        label: "Leaderboard",
-        href: "/teams",
-        status: status.NEW,
-      },
-      {
-        label: "YourProfile",
-        href: "/",
-      },
-    ],
-    calloutClass: "rainbow",
-  },
+  // {
+  //   label: "Team Battle",
+  //   icon: "TeamBattleIcon",
+  //   href: "/competition",
+  //   status: status.SOON,
+  // },
+  // {
+  //   label: "Profile & Teams",
+  //   icon: "GroupsIcon",
+  //   items: [
+  //     {
+  //       label: "Leaderboard",
+  //       href: "/teams",
+  //       status: status.NEW,
+  //     },
+  //     {
+  //       label: "YourProfile",
+  //       href: "/",
+  //     },
+  //   ],
+  //   calloutClass: "rainbow",
+  // },
   {
     label: "Info",
     icon: "InfoIcon",
     items: [
       {
         label: "Overview",
-        href: "https://pancakeswap.info",
+        href: "https://info.strawberryswap.link",
       },
       {
         label: "Tokens",
-        href: "https://pancakeswap.info/tokens",
+        href: "https://info.strawberryswap.link/tokens",
       },
       {
         label: "Pairs",
-        href: "https://pancakeswap.info/pairs",
+        href: "https://info.strawberryswap.link/pairs",
       },
       {
         label: "Accounts",
-        href: "https://pancakeswap.info/accounts",
+        href: "https://info.strawberryswap.link/accounts",
       },
     ],
   },
-  {
-    label: "IFO",
-    icon: "IfoIcon",
-    items: [
-      {
-        label: "Next",
-        href: "/ifo",
-      },
-      {
-        label: "History",
-        href: "/ifo/history",
-      },
-    ],
-  },
-  {
-    label: "More",
-    icon: "MoreIcon",
-    items: [
-      {
-        label: "Voting",
-        href: "https://voting.pancakeswap.finance",
-      },
-      {
-        label: "Github",
-        href: "https://github.com/pancakeswap",
-      },
-      {
-        label: "Docs",
-        href: "https://docs.pancakeswap.finance",
-      },
-      {
-        label: "Blog",
-        href: "https://pancakeswap.medium.com",
-      },
-    ],
-  },
+  // {
+  //   label: "IFO",
+  //   icon: "IfoIcon",
+  //   items: [
+  //     {
+  //       label: "Next",
+  //       href: "/ifo",
+  //     },
+  //     {
+  //       label: "History",
+  //       href: "/ifo/history",
+  //     },
+  //   ],
+  // },
+  // {
+  //   label: "More",
+  //   icon: "MoreIcon",
+  //   items: [
+  //     {
+  //       label: "Voting",
+  //       href: "https://voting.pancakeswap.finance",
+  //     },
+  //     {
+  //       label: "Github",
+  //       href: "https://github.com/pancakeswap",
+  //     },
+  //     {
+  //       label: "Docs",
+  //       href: "https://docs.pancakeswap.finance",
+  //     },
+  //     {
+  //       label: "Blog",
+  //       href: "https://pancakeswap.medium.com",
+  //     },
+  //   ],
+  // },
 ];
 
 export const socials = [
@@ -145,62 +145,62 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/pancakeswap",
+        href: "#",
       },
       {
         label: "Bahasa Indonesia",
-        href: "https://t.me/PancakeSwapIndonesia",
+        href: "#",
       },
       {
         label: "中文",
-        href: "https://t.me/PancakeSwap_CN",
+        href: "#",
       },
       {
         label: "Tiếng Việt",
-        href: "https://t.me/PancakeSwapVN",
+        href: "#",
       },
       {
         label: "Italiano",
-        href: "https://t.me/pancakeswap_ita",
+        href: "#",
       },
       {
         label: "русский",
-        href: "https://t.me/pancakeswap_ru",
+        href: "#",
       },
       {
         label: "Türkiye",
-        href: "https://t.me/pancakeswapturkiye",
+        href: "#",
       },
       {
         label: "Português",
-        href: "https://t.me/PancakeSwapPortuguese",
+        href: "#",
       },
       {
         label: "Español",
-        href: "https://t.me/PancakeswapEs",
+        href: "#",
       },
       {
         label: "日本語",
-        href: "https://t.me/pancakeswapjp",
+        href: "#",
       },
       {
         label: "Français",
-        href: "https://t.me/pancakeswapfr",
+        href: "#",
       },
       {
         label: "Announcements",
-        href: "https://t.me/PancakeSwapAnn",
+        href: "#",
       },
       {
         label: "Whale Alert",
-        href: "https://t.me/PancakeSwapWhales",
+        href: "#",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/pancakeswap",
+    href: "#",
   },
 ];
 
