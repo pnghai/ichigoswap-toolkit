@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.27.0](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/compare/@pnghai/ichigoswap-uikit@0.26.0...@pnghai/ichigoswap-uikit@0.27.0) (2021-04-26)
+
+
+### Features
+
+* **menu:** Add support for top level tags on accordion ([#84](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/issues/84)) ([a15257b](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/commit/a15257ba0460d116bfeaa5ffdad1b9e2c20b4872))
+
+
+
+
+
 # [0.26.0](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/compare/@pnghai/ichigoswap-uikit@0.25.0...@pnghai/ichigoswap-uikit@0.26.0) (2021-04-23)
 
 
