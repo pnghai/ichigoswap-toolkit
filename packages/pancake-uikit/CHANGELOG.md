@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.28.0](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/compare/@pnghai/ichigoswap-uikit@0.27.0...@pnghai/ichigoswap-uikit@0.28.0) (2021-04-29)
+
+
+### Bug Fixes
+
+* **card-ribbon:** Add z-index value to ribbon and spread props to improve flexibility of component ([#88](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/issues/88)) ([2fb19f1](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/commit/2fb19f19ffef89a7abc73d1e77734b1a46a99d29))
+
+
+### Features
+
+* **uikit:** Prediction icons ([#87](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/issues/87)) ([25b03ce](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/commit/25b03ce2eb2bab14fc48cd8d8b5de212e12e3ee4))
+
+
+
+
+
 # [0.27.0](https://github.com/pnghai/ichigoswap-toolkit/tree/master/packages/pancake-uikit/compare/@pnghai/ichigoswap-uikit@0.26.0...@pnghai/ichigoswap-uikit@0.27.0) (2021-04-26)
 
 
